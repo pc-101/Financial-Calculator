@@ -11,6 +11,6 @@ This program allowed me to learn about file handling, lambda functions, and form
 to the console amongst other concepts.    
 
 Here is a screenshot of some features that this program offers:  
-![screenshot](../master/screenshots/finances_1?raw=true)  
+![screenshot](../master/screenshots/finances_1.png?raw=true)  
 
 
