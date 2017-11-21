@@ -1,4 +1,4 @@
-# Financial-Calculator
+# Financial-Tracker
 This financial tracker/calculator seeks to act as a basic tool to keep track of one's finances. 
 This program can be asked to take down multiple entries, such as monthly rent, grocery expenses,
 food expenses, loans, etc. and stores this data in a text file, finances.txt. This acts as the 
